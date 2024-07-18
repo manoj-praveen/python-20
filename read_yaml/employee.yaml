@@ -1,0 +1,21 @@
+---
+name: manoj
+age: 23
+skills:
+  - python
+  - go
+  - backend
+education: |
+  80 percent in school
+  85 percent in collage
+
+---
+name: praveen
+age: 23
+skills:
+  - python
+  - go
+  - backend
+education: |
+  80 percent in school
+  85 percent in collage
